@@ -1,0 +1,23 @@
+html,body {
+    background: black;
+    height: 100%;
+    color: white;
+}
+.container-fluid {
+    color: white;
+}
+#header {
+    background: rgb(81, 81, 226);
+}
+#row1 {
+    background: rgb(151, 88, 151, 0.9);
+}
+#row2 {
+    background: rgb(85, 4, 85);
+}
+#row3 {
+    background: rgb(141, 189, 10);
+}
+#row4 {
+    background: rgb(107, 4, 85)
+}
